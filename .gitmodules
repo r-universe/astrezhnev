@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cjoint"]
 	path = cjoint
-	url = https://github.com/cran/cjoint
+	url = https://github.com/astrezhnev/cjoint
